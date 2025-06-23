@@ -47,4 +47,4 @@ for i in range(0, 10):
 # print(review_data)
 df = pd.DataFrame(reviews_data)
 
-df.to_csv('tokopedia-seller-review/review_gugellaptop.csv', index=False)
+df.to_csv('tokopedia-seller-review/data/review_gugellaptop.csv', index=False)
